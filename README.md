@@ -4,6 +4,8 @@
   <strong>River-Pi by Juls</strong>
 </p>
 
+# Site
+
 https://river-pi.nl
 
 # Info
@@ -22,4 +24,4 @@ https://river-pi.nl
 
 # Release
 
-<button href="" disabled>Download</button> [Beta 1.0]
+Download [Beta 1.0] | currently Disabled
