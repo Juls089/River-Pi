@@ -10,18 +10,19 @@ https://river-pi.nl
 
 # Info
 
-
+ 
 
 # State
 
-### Hardware Projects
-- [ ] RiverPi https://river-pi.nl
-- [ ] RiverUSB https://river-usb.nl
+### Hardware
+- [ ] Case Design
+- [ ] Package Design
 
-### Software Projects
-- [ ] RiverOS-Jailbreak https://river-jb.nl
-- [X] RiverM-FiveM-Projects https://river-fivem.nl
+### Software
+- [ ] RiverOS 
 
-# Release
+- - [ ] Design 
 
-Download [Beta 1.0] | currently Disabled
+- [ ] Windows compatibility 
+- [ ] MacOS compatibility 
+- [ ] Linux compatibility 
