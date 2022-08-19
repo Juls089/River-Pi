@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/river-pi-half.png" width="500">
+<img src="img/river-pi-half.png" width="400">
   <br>
   <strong>River-Pi by Juls</strong>
 </p>
